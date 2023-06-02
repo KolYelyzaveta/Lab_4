@@ -1,0 +1,13 @@
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\bin\Debug\laboratorna1.exe.config
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\bin\Debug\laboratorna1.exe
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\bin\Debug\laboratorna1.pdb
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.AssemblyReference.cache
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.Form1.resources
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.Properties.Resources.resources
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.GenerateResource.cache
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.CoreCompileInputs.cache
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.exe
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.pdb
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.Form2.resources
+C:\Users\dimon\source\repos\laboratorna1\laboratorna1\obj\Debug\laboratorna1.Form3.resources
